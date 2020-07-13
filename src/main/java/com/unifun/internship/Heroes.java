@@ -5,7 +5,7 @@ import com.unifun.internship.enums.Attribute;
 import javax.persistence.*;
 
 @Entity
-public class Heroes {
+public class Heroes  {
     @Id
     private long id ;
 
