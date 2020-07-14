@@ -1,4 +1,4 @@
-package com.unifun.internship.enums;
+package com.unifun.internship.orm.enums;
 
 public enum Attribute {
     STRENGTH,

@@ -1,4 +1,4 @@
-package com.unifun.internship;
+package com.unifun.internship.orm;
 
 import io.quarkus.test.junit.NativeImageTest;
 
